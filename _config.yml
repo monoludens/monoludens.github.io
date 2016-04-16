@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://monoludens.github.io
+title: monologos
+email: wil.cavalheiro@gmail.com
+author: monoludens
+description: mono
+paginate: 6
+google_analytics: 
